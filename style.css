@@ -1,0 +1,42 @@
+.h{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+body{
+    background-size: cover;
+}
+#a{
+    font-size: 15px;
+    color: rgb(17, 17, 15);
+}
+#b{
+    float: left;
+}
+#c{
+    width: 200px;
+    border-radius: 100px;
+}
+#d{
+    font-size: 23px;
+    margin: 15px;
+}
+#e{
+    float: right;
+}
+#f{
+    width: 200px;
+    border-radius: 100px;
+}
+#g{
+    font-size: 23px;
+    margin: 15px;
+}
+.j{
+    width: 130px;
+    font-size: 25px;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+}
